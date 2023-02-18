@@ -1,0 +1,12 @@
+{
+	"name" : "Modern Roads",
+	"description" : "Modern Roads (Railway, Highway, Asphalt Road)",
+	"version":"0.0.2",
+	"author":"Macron1",
+	"contact":"none",
+	"modType":"Graphical",
+	"roads" :
+	[
+		"config/modernroads/roads.json"
+	]
+}
